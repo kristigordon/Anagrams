@@ -11,6 +11,7 @@ Tom Marvolo Riddle. “Lord Ear Mold Vomit” is also an anagram of Tom Marvolo 
 "he who should not be named". 
 
 But enough fan girling, let's get into the code!
+There will be a UML document attached to this repository.
 
 First, we want the user to enter a word to see if it has an anagram. This word is checked against an imported dictionary file. 
 
