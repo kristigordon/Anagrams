@@ -25,17 +25,17 @@ for word in word_list:
 # * allows the list to be formated so it doesn't look like a list, instead a series of words without punctuation
 print(*anagram_list, sep='\n') 
 
-x = 'silent'
-y = 'listen'
+x = 'low'
+y = 'owl'
 
-print(list(x))
-print(list(y))
+#print(list(x))
+#print(list(y))
 
 sorted_x = sorted(x) 
 sorted_y = sorted(y)
 
-print(list(x))
-print(list(y))
+#print(list(x))
+#print(list(y))
 
 print(sorted_x)
 print(sorted_y)
